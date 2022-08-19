@@ -1,0 +1,11 @@
+ # django
+ django==3.0.6
+ # uwsgi
+ uwsgi==2.0.18
+ # mysql
+ mysqlclient==1.4.6
+ # redis
+ django-redis==4.11.0
+ redis==3.5.0
+ # for images
+ Pillow==7.1.2
